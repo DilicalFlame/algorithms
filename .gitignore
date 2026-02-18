@@ -10,3 +10,6 @@ wheels/
 .venv
 
 /playground.py
+
+# Obsidian vault files
+.obsidian/
