@@ -9,4 +9,4 @@ It is my personal playground to test all the beautiful algorithms present out th
 ## Catalog
 
 ### Central Tendency
-- [Arithmetic Mean](Arithmetic%20Mean.md) ([Code](./central_tendency/arithmetic_mean.py))
+- [Arithmetic Mean](notes/Arithmetic%20Mean.md) ([Code](./central_tendency/arithmetic_mean.py))
