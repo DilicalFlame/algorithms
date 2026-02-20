@@ -13,3 +13,7 @@ wheels/
 
 # Obsidian vault files
 .obsidian/
+
+# IDE Files
+.idea/
+.vscode/
